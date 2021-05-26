@@ -1,0 +1,10 @@
+What is Git?
+Git is a version control system that you download onto your computer. It is essential that you use Git if you want to collaborate with other developers on a coding project or work on your own project.
+
+In order to check if you already have Git installed on your computer you can type the command git --version in the terminal.
+
+If you already have Git installed then you will see what version you have. If you don’t have Git installed you can visit the Git website and easily follow the download instructions to install the correct version for your operating system.
+
+Git is a version control system that developers use all over the world. It helps you track different versions of your code and collaborate with other developers.
+
+If you are working on a project over time, you may want to keep track of which changes were made, by whom, and when those changes were made. This becomes increasingly important if you end up having a bug in your code! Git can help you with this.
