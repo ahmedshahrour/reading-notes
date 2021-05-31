@@ -27,3 +27,10 @@ Conditional (ternary) operator
 Comma operator
 Unary operators
 Relational operators
+
+
+while statement
+
+A while statement executes its statements as long as a specified condition evaluates to true
+
+If the condition becomes false, statement within the loop stops executing and control passes to the statement following the loop.
