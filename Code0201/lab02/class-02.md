@@ -186,10 +186,12 @@ This specifies the path to the
 CSS file (which is often placed in
 a folder called css or styles).
 
+
 type
 This attribute specifies the type
 of document being linked to. The
 value should be text/css.
+
 
 rel
 This specifies the relationship
@@ -208,13 +210,13 @@ colors) and a second to control
 the layout.
 
 
-<style>
+*style*
 You can also include CSS rules
 within an HTML page by placing
-them inside a <style> element,
+them inside a *style* element,
 which usually sits inside the
-<head> element of the page.
-The <style> element should use
+*head* element of the page.
+The *style* element should use
 the type attribute to indicate
 that the styles are specified in
 CSS. The value should be text/
