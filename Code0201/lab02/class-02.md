@@ -48,7 +48,6 @@ any additional meaning.
 
 Superscript & Subscript
 
-
 The <sup> element is used
 to contain characters that
 should be superscript such
@@ -64,7 +63,6 @@ used with foot notes or chemical
 formulas such as H20.
 
 White Space
-
 
 In order to make code easier to
 read, web page authors often
@@ -113,7 +111,6 @@ character. Some web page
 authors miss this out but it is a
 good habit to get into.
 
-
 Strong & Emphasis
 
 <strong>
@@ -135,7 +132,6 @@ By default browsers will show
 the contents of an <em> element
 in italic.
 
-
 Abbreviations &
 Acronyms
 
@@ -154,7 +150,6 @@ attribute was used (as with the
 just uses the <abbr> element
 for both abbreviations and
 acronyms.
-
 
 Understanding CSS:
 Thinking Insi de the Box
@@ -212,7 +207,6 @@ colors) and a second to control
 the layout.
 
 
-
 <style>
 You can also include CSS rules
 within an HTML page by placing
@@ -238,7 +232,6 @@ by altering just one file
 (rather than each individual
 page).
 
-
 PLACING THE SCRIPT
 IN THE PAGE
 
@@ -252,3 +245,4 @@ If you view the source code of the page in the browser,
 the JavaScript will not have changed the HTML,
 because the script works with the model of the web
 page that the browser has created.
+
