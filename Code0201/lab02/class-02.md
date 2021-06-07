@@ -48,6 +48,7 @@ any additional meaning.
 
 Superscript & Subscript
 
+
 The <sup> element is used
 to contain characters that
 should be superscript such
