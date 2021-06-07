@@ -2,17 +2,17 @@ Headings
 
 HTML has six "levels" of
 headings:
-<h1> is used for main headings
-<h2> is used for subheadings
+h1 is used for main headings
+h2 is used for subheadings
 If there are further sections
 under the subheadings then the
-<h3> element is used, and so
+h3 element is used, and so
 on...
 Browsers display the contents of
 headings at different sizes. The
-contents of an <h1> element is
+contents of an h1 element is
 the largest, and the contents of
-an <h6> element is the smallest.
+an h6 element is the smallest.
 The exact size at which each
 browser shows the headings
 can vary slightly. Users can also
@@ -36,9 +36,9 @@ any subsequent paragraphs.
 Bold & Italic
 
 By enclosing words in the tags
-<b> and </b> we can make
+*b* and */b* we can make
 characters appear bold.
-The <b> element also represents
+The *b* element also represents
 a section of text that would be
 presented in a visually different
 way (for example key words in a
@@ -49,7 +49,7 @@ any additional meaning.
 Superscript & Subscript
 
 
-The <sup> element is used
+The *sup* element is used
 to contain characters that
 should be superscript such
 as the suffixes of dates or
@@ -57,7 +57,7 @@ mathematical concepts like
 raising a number to a power such
 as 22.
 
-The <sub> element is used to
+The *sub* element is used to
 contain characters that should
 be subscript. It is commonly
 used with foot notes or chemical
@@ -97,7 +97,7 @@ themes — such as a change of
 topic in a book or a new scene
 in a play — you can add a
 horizontal rule between sections
-using the <hr /> tag.
+using the *hr /* tag.
 There are a few elements that
 do not have any words between
 an opening and closing tag. They
@@ -114,19 +114,19 @@ good habit to get into.
 
 Strong & Emphasis
 
-<strong>
-The use of the <strong>
+*strong*
+The use of the *strong*
 element indicates that its
 content has strong importance.
 For example, the words
 contained in this element might
 be said with strong emphasis.
 By default, browsers will show
-the contents of a <strong>
+the contents of a *strong*
 element in bold.
 
-<em>
-The <em> element indicates
+*em*
+The *em* element indicates
 emphasis that subtly changes
 the meaning of a sentence.
 By default browsers will show
@@ -136,19 +136,19 @@ in italic.
 Abbreviations &
 Acronyms
 
-<abbr> html HTML
+*abbr* html HTML
 If you use an abbreviation or
-an acronym, then the <abbr>
+an acronym, then the *abbr*
 element can be used. A title
 attribute on the opening tag is
 used to specify the full term.
 In HTML 4 there was a separate
-<acronym> element for
+*acronym* element for
 acronyms. To spell out the full
 form of the acronym, the title
 attribute was used (as with the
-<abbr> element above). HTML5
-just uses the <abbr> element
+*abbr* element above). HTML5
+just uses the *abbr* element
 for both abbreviations and
 acronyms.
 
@@ -241,7 +241,7 @@ IN THE PAGE
 It is best to keep JavaScript code in its own JavaScript
 file. JavaScript files are text files (like HTML pages and
 CSS style sheets), but they have the . j s extension.
-The HTML <script> element is used in HTML pages
+The HTML *script* element is used in HTML pages
 to tell the browser to load the JavaScript file (rather like
 the <link> element can be used to load a CSS file).
 If you view the source code of the page in the browser,
