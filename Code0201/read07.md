@@ -1,7 +1,7 @@
 Basic Table Structure
 
-<table>
-The <table> element is used
+*table*
+The table element is used
 to create a table. The contents
 of the table are written out row
 by row.
@@ -24,7 +24,7 @@ closing </td> tag.
 
 Table Headings
 
-<th>
+*th*
 The <th> element is used just
 like the <td> element but its
 purpose is to represent the
@@ -132,15 +132,15 @@ allow you to style these sections
 in a different manner than the
 rest of the table (as you will see
 when you learn about CSS).
-<thead>
+*thead*
 The headings of the table should
 sit inside the <thead> element.
-<tbody>
+*tbody*
 The body should sit inside the
-<tbody> element.
-<tfoot>
+tbody element.
+*tfoot*
 The footer belongs inside the
-<tfoot> element.
+*tfoot* element.
 By default, browsers rarely treat
 the content of these elements
 any differently than other
