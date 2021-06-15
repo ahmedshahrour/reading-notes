@@ -58,7 +58,7 @@ corresponds with which form element.
 *form*
 
 Form controls live inside a
-<form> element. This element
+*form* element. This element
 should always carry the action
 attribute and will usually have a
 method and id attribute too.
@@ -79,8 +79,10 @@ from the form are added to
 the end of the URL specified in
 the action attribute. The get
 method is ideal for:
+
 ●● short forms (such as search
 boxes)
+
 ●● when you are just retrieving
 data from the web server
 (not sending information that
@@ -173,12 +175,8 @@ image is given inside double
 quotes.
 This property can be used on
 rules that apply to the <ul> and
-<li> elements.
-The example on this page also
-shows the use of the margin
-property to increase the vertical
-gap between each item in the
-list.
+*li* elements.
+
 
 This property can take one of
 two values:
@@ -359,7 +357,7 @@ occurred on, which key a user
 pressed, or where the cursor is
 positioned).
 
-HTM LS EVENTS
+HTMLS EVENTS
 
 The HTMLS specification
 (that is still being developed)
