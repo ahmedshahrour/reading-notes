@@ -1,4 +1,4 @@
-Controll ing the Position of El ements
+Controlling the Position of Elements
 
 CSS has the following positioning schemes that allow you to control
 the layout of a page: normal flow, relative positioning, and absolute
